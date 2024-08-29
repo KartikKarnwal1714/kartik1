@@ -1,0 +1,21 @@
+*{
+    font-style: italic;
+}
+#head{
+    color: #0000ff;
+    text-align: center;
+    font-size: 50px;
+}
+#header{
+    color: #ff4f33;
+    font-size: 40px;
+    font-family:'Times New Roman';
+}
+h2{
+    color: #ff4f33;
+    font-size: 30px;
+}
+footer{
+    color: #0000ff;
+    font-size: 30px;
+}
